@@ -1,6 +1,6 @@
 # 🐾 Gestor de Citas para Veterinaria
 
-Aplicación web desarrollada con JavaScript puro que permite registrar, editar y eliminar citas de pacientes veterinarios. Se realiza completamente en el navegador, sin backend, aplicando POO y manipulación del DOM.
+Aplicación web desarrollada con **JavaScript moderno (ES Modules)** que permite registrar, editar y eliminar citas de pacientes veterinarios. Toda la lógica se ejecuta en el navegador, sin necesidad de backend, y se aplican principios de **Programación Orientada a Objetos (POO)** y **modularización** del código para una mejor organización.
 
 Este proyecto fue creado como parte del curso de Udemy:  
 [JavaScript Moderno: Guía Definitiva Construye +10 Proyectos](https://www.udemy.com/course/javascript-moderno-guia-definitiva-construye-10-proyectos)
@@ -16,14 +16,19 @@ Podés probar el proyecto aquí:
 - Editar citas existentes
 - Eliminar citas
 - Validación de campos obligatorios
-- Notificaciones visuales para el usuario
+- Notificaciones visuales
 - Interfaz clara y responsiva
+- Código modularizado usando `import/export`
 
 ## 🧠 Tecnologías utilizadas
 
 - HTML5
 - CSS3 (con clases utilitarias tipo Tailwind)
-- JavaScript (POO, DOM, eventos)
+- JavaScript
+  - DOM
+  - Eventos
+  - Programación Orientada a Objetos (POO)
+  - **Módulos ES (`type="module"`)**
 
 
 ## 🚀 Cómo usar
